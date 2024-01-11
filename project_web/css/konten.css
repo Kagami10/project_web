@@ -1,0 +1,15 @@
+table{
+	border: 5px groove #ff4600;
+	font-family: 'Verdana',arial,sans-serif;
+	font-size: 15px
+}
+table tr td img{
+	width: 1300px;
+}
+table tr{
+	border: 3px groove #ff4600;
+}
+table td{
+	border: 3px groove #ff4600;
+	padding: 5px;
+}
